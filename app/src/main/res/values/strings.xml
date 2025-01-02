@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Proyecto</string>
+    <string name="lanzar_dado">lanzar dado</string>
+    <string name="dado">Dado</string>
+    <string name="agregar_dado">Agregar dado</string>
+    <string name="quitar_dado">Quitar dado</string>
+</resources>
